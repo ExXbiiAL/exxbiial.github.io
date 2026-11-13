@@ -3,7 +3,8 @@ title: 4th post
 description: "Este es mi cuarto post"
 date: "2026-11-13 9:45:23"
 categories: [Blogging, Tutorial]
-tags: [writing, fourth] 
+tags: [writing, fourth]
+pin: true
 ---
 
 ## 4 Introducción 4
